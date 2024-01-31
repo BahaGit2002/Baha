@@ -8,7 +8,7 @@ I like
 
 and coding or course :computer:
 
-### Skills and Tools
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="HTML5" width="30px" 
 src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" />
