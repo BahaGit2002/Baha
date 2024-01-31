@@ -2,7 +2,6 @@
 ### I'm backend web developer and student.
 <br/>
 <br/>
-<br/>
 
 ### 🛠️ Languages and Tools:
 
@@ -39,4 +38,5 @@ src="https://camo.githubusercontent.com/0276c81127a978363c64312cbf1562e443830f2c
 
 ### You can cantact me:
 
-<img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+<img alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+<img alt="Linkedin" width="30px" src="https://camo.githubusercontent.com/9ae0ba8875fa91deb4f92e544fdc8824b7a168ee0785a110ff01bfb69cd581e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d323741304439" />
