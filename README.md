@@ -12,7 +12,7 @@ and coding or course :computer:
 
 <img align="left" alt="HTML5" width="30px" 
 src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" />
-<img align="left" alt="Telegram" width="26px" 
+<img align="left" alt="Telegram" width="30px" 
 src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
 
 <br/>
