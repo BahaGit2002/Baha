@@ -1,8 +1,8 @@
 # Hello I'm [Baktiyar](https://github.com/BahaGit2002)
 ### I'm backend web developer and student.
-<br/>
-<br/>
+
 ---
+
 ### 🛠️ Languages and Tools:
 
 <img alt="Python" max-width="100%" 
