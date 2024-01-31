@@ -1,4 +1,4 @@
-# Hello I'm [BahaGit2002] [youtube]
+# Hello I'm [BahaGit2002](https://github.com/BahaGit2002) [youtube]
 ### I'm backend web developer and student.
 
 I like
@@ -11,7 +11,7 @@ and coding or course :computer:
 ### Skills and Tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/
-explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] [youtube]
 
 <br/>
 <br/>
