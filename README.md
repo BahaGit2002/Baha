@@ -1,4 +1,4 @@
-# Hello I'm [BahaGit2002](https://github.com/BahaGit2002)
+# Hello I'm [Baktiyar](https://github.com/BahaGit2002)
 ### I'm backend web developer and student.
 <br/>
 <br/>
