@@ -10,10 +10,10 @@ and coding or course :computer:
 
 ### Skills and Tools
 
-[<img align="left" alt="HTML5" width="26px" 
-src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" />]
-[<img align="left" alt="Telegram" width="26px" 
-src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />]
+<img align="left" alt="HTML5" width="26px" 
+src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" />
+[img align="left" alt="Telegram" width="26px" 
+src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
 
 <br/>
 <br/>
