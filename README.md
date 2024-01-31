@@ -2,7 +2,7 @@
 ### I'm backend web developer and student.
 <br/>
 <br/>
-
+---
 ### 🛠️ Languages and Tools:
 
 <img alt="Python" max-width="100%" 
@@ -32,13 +32,11 @@ src="https://camo.githubusercontent.com/aac74ca85b21ed1ff4fa88dda8712fce9cddbf78
 <img alt="Docker" max-width="100%"
 src="https://camo.githubusercontent.com/0276c81127a978363c64312cbf1562e443830f2c62af89e89385d159f314c0ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" />
 
-<br/>
-<br/>
-<br/>
+---
 
 ### 📫 Contact with me:
 
 [![Telegram](https://camo.githubusercontent.com/359ce13e4bc8c0af898397dced16c68f1d2f16f505d2eec880947ef6d421d1f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439)](https://web.telegram.org/k/#@baha_jak)  [![Linkedin](https://camo.githubusercontent.com/9ae0ba8875fa91deb4f92e544fdc8824b7a168ee0785a110ff01bfb69cd581e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d323741304439)](ссыл)
-
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BahaGit2002&theme=dark&background=000000)](https://git.io/streak-stats)
