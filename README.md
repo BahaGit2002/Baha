@@ -21,6 +21,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 - telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -29,6 +31,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Leedcode and read tech articles.
 
+---
 
 ### 🛠️ Languages and Tools:
 
