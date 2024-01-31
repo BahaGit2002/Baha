@@ -19,3 +19,4 @@ and coding or course :computer:
 ### You can cantact me:
 
 [<img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />]
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />]
